@@ -7216,7 +7216,7 @@ L 71.280024 387.2
 L 71.3264 388.8 
 z
 " style="fill:#ffffff;"/>
-     <path clip-path="url(#pf26c5e5a93)" d="M 72 216 
+     <path clip-path="url(#p826a730be7)" d="M 72 216 
 L 72.375917 215.072814 
 L 72.756998 214.147534 
 L 73.195119 213.243319 
@@ -7997,7 +7997,7 @@ L 471.198232 218.310169
 L 471.492179 217.352711 
 L 472.031047 215.7575 
 " style="fill:none;stroke:#ffffff;stroke-linecap:square;stroke-width:4;"/>
-     <path clip-path="url(#pf26c5e5a93)" d="M 72 216 
+     <path clip-path="url(#p826a730be7)" d="M 72 216 
 L 72.375917 215.072814 
 L 72.756998 214.147534 
 L 73.195119 213.243319 
@@ -12151,7 +12151,7 @@ L 510.4 43.2
         </g>
        </g>
        <defs>
-        <clipPath id="pf26c5e5a93">
+        <clipPath id="p826a730be7">
          <rect height="345.6" width="446.4" x="72" y="43.2"/>
         </clipPath>
        </defs>
