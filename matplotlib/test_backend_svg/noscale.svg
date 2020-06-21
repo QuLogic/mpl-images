@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Created with matplotlib (http://matplotlib.org/) -->
+<!-- Created with matplotlib (https://matplotlib.org/) -->
 <svg height="432pt" version="1.1" viewBox="0 0 576 432" width="576pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <style type="text/css">
@@ -26,9 +26,9 @@ L 122.4 43.2
 z
 " style="fill:#ffffff;"/>
    </g>
-   <g clip-path="url(#p32a7846c76)">
-    <image height="10" id="imagefd2ffbeaa5" transform="matrix(34.6 0 0 34.6 122.4 42.8)" width="10" xlink:href="data:image/png;base64,
-iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAABHNCSVQICAgIfAhkiAAAADxJREFUGJWNjkENAEAIw7bk3GEDE2ibIGRwFrp3087dfQJ7u0s4OQkyWhJL3yFOnhmWPqjkH5MQTq4qZPxAhBeW5Y3wWwAAAABJRU5ErkJggg=="/>
+   <g clip-path="url(#p34a0342299)">
+    <image height="10" id="imagef39ab93cb5" style="image-rendering:crisp-edges;image-rendering:pixelated" transform="matrix(34.6 0 0 34.6 122.4 42.8)" width="10" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAPElEQVR4nI2OQQ0AQAjDtuTcYQMTaJsgZHAWunfTzt19Anu7Szg5CTJaEkvfIU6eGZY+qOQfkxBOripk/ECEF5YqizY6AAAAAElFTkSuQmCC"/>
    </g>
    <g id="patch_3">
     <path d="M 122.4 388.8 
@@ -197,7 +197,7 @@ L -4 0
   </g>
  </g>
  <defs>
-  <clipPath id="p32a7846c76">
+  <clipPath id="p34a0342299">
    <rect height="345.6" width="345.6" x="122.4" y="43.2"/>
   </clipPath>
  </defs>

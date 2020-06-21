@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Created with matplotlib (http://matplotlib.org/) -->
+<!-- Created with matplotlib (https://matplotlib.org/) -->
 <svg height="432pt" version="1.1" viewBox="0 0 576 432" width="576pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <style type="text/css">
@@ -27,7 +27,7 @@ z
 " style="fill:#ffffff;"/>
    </g>
    <g id="PathCollection_1">
-    <path clip-path="url(#p0f4be854dc)" d="M 173.454545 66.24 
+    <path clip-path="url(#p3a3c58397e)" d="M 173.454545 66.24 
 L 151.472727 151.152018 
 L 97.307294 141.12 
 L 129.490909 216 
@@ -40,7 +40,7 @@ L 217.418182 216
 L 249.601797 141.12 
 L 195.436364 151.152018 
 z
-" style="fill:url(#h3fc77731e8);fill-opacity:0.7;stroke:#0000ff;stroke-opacity:0.7;stroke-width:5;"/>
+" style="fill:url(#h95f2a3a954);fill-opacity:0.7;stroke:#0000ff;stroke-opacity:0.7;stroke-width:5;"/>
    </g>
    <g id="patch_3">
     <path d="M 72 388.8 
@@ -265,7 +265,7 @@ z
 " style="fill:#ffffff;"/>
    </g>
    <g id="patch_8">
-    <path clip-path="url(#p172c18dce2)" d="M 416.945455 66.24 
+    <path clip-path="url(#p0b645584cb)" d="M 416.945455 66.24 
 L 394.963636 151.152018 
 L 340.798203 141.12 
 L 372.981818 216 
@@ -278,7 +278,7 @@ L 460.909091 216
 L 493.092706 141.12 
 L 438.927273 151.152018 
 z
-" style="fill:url(#h3fc77731e8);opacity:0.7;stroke:#0000ff;stroke-linejoin:miter;stroke-width:5;"/>
+" style="fill:url(#h95f2a3a954);opacity:0.7;stroke:#0000ff;stroke-linejoin:miter;stroke-width:5;"/>
    </g>
    <g id="patch_9">
     <path d="M 315.490909 388.8 
@@ -475,7 +475,7 @@ L 518.4 43.2
   </g>
  </g>
  <defs>
-  <clipPath id="p0f4be854dc">
+  <clipPath id="p3a3c58397e">
    <path d="M 105.818182 331.2 
 L 241.090909 331.2 
 L 241.090909 100.8 
@@ -493,7 +493,7 @@ C 197.367611 256.729351 191.025792 267.530901 182.423232 273.6
 z
 "/>
   </clipPath>
-  <clipPath id="p172c18dce2">
+  <clipPath id="p0b645584cb">
    <path d="M 349.309091 331.2 
 L 484.581818 331.2 
 L 484.581818 100.8 
@@ -513,7 +513,7 @@ z
   </clipPath>
  </defs>
  <defs>
-  <pattern height="72" id="h3fc77731e8" patternUnits="userSpaceOnUse" width="72" x="0" y="0">
+  <pattern height="72" id="h95f2a3a954" patternUnits="userSpaceOnUse" width="72" x="0" y="0">
    <rect fill="#ff0000" height="73" width="73" x="0" y="0"/>
    <path d="M 0 68 
 L -1.175571 70.381966 
@@ -1021,7 +1021,7 @@ L 73.902113 0.618034
 L 75.804226 -1.236068 
 L 73.175571 -1.618034 
 L 72 -4 
-" style="fill:#0000ff;stroke:#0000ff;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:1.0;"/>
+" style="fill:#0000ff;stroke:#0000ff;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.7;stroke-width:1.0;"/>
   </pattern>
  </defs>
 </svg>

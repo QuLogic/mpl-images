@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Created with matplotlib (http://matplotlib.org/) -->
+<!-- Created with matplotlib (https://matplotlib.org/) -->
 <svg height="54pt" version="1.1" viewBox="0 0 378 54" width="378pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <style type="text/css">
@@ -18,7 +18,7 @@ z
 " style="fill:#ffffff;"/>
   </g>
   <g id="text_1">
-   <!-- $\mathring{A}  \stackrel{\circ}{A}  \AA$ -->
+   <!-- $\mathring{A}  \AA$ -->
    <defs>
     <path d="M 31.640625 31.34375 
 Q 31.640625 34.328125 29.53125 36.453125 
@@ -40,7 +40,7 @@ Q 30.328125 17.53125 24.40625 17.53125
 Q 18.5 17.53125 14.546875 21.484375 
 Q 10.59375 25.4375 10.59375 37.25 
 z
-" id="DejaVuSerif-2218"/>
+" id="DejaVuSerif-8728"/>
     <path d="M 18.109375 26.421875 
 L 44.875 26.421875 
 L 38.234375 61.078125 
@@ -62,7 +62,7 @@ L 5.859375 5.171875
 L 13.875 5.171875 
 L 12.890625 0 
 z
-" id="DejaVuSerif-Italic-41"/>
+" id="DejaVuSerif-Italic-65"/>
     <path d="M 44 72.015625 
 Q 49.171875 76.3125 49.78125 79.390625 
 Q 50.390625 82.46875 48.625 84.640625 
@@ -101,14 +101,12 @@ L 3.953125 5.171875
 L 11.96875 5.171875 
 L 10.9375 0 
 z
-" id="DejaVuSerif-Italic-c5"/>
+" id="DejaVuSerif-Italic-197"/>
    </defs>
-   <g transform="translate(176.52 30.66)scale(0.12 -0.12)">
-    <use transform="translate(32.866699 77.75)scale(0.49)" xlink:href="#DejaVuSerif-2218"/>
-    <use transform="translate(0 0.9375)" xlink:href="#DejaVuSerif-Italic-41"/>
-    <use transform="translate(80.216797 38.539062)scale(0.7)" xlink:href="#DejaVuSerif-2218"/>
-    <use transform="translate(72.216797 -37.495313)scale(0.7)" xlink:href="#DejaVuSerif-Italic-41"/>
-    <use transform="translate(135.268555 0.9375)" xlink:href="#DejaVuSerif-Italic-c5"/>
+   <g transform="translate(180.3 30.504375)scale(0.12 -0.12)">
+    <use transform="translate(32.866699 77.75)scale(0.49)" xlink:href="#DejaVuSerif-8728"/>
+    <use transform="translate(0 0.9375)" xlink:href="#DejaVuSerif-Italic-65"/>
+    <use transform="translate(72.216797 0.9375)" xlink:href="#DejaVuSerif-Italic-197"/>
    </g>
   </g>
  </g>

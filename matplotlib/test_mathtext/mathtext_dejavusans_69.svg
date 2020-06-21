@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Created with matplotlib (http://matplotlib.org/) -->
+<!-- Created with matplotlib (https://matplotlib.org/) -->
 <svg height="54pt" version="1.1" viewBox="0 0 378 54" width="378pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2020-06-20T18:30:32.390330</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.3.0rc1.post0.dev0+g52fe9ea85, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
  <defs>
   <style type="text/css">
 *{stroke-linecap:butt;stroke-linejoin:round;}
@@ -18,9 +32,10 @@ z
 " style="fill:#ffffff;"/>
   </g>
   <g id="text_1">
-   <!-- $\mathring{A}  \stackrel{\circ}{A}  \AA$ -->
-   <defs>
-    <path d="M 31.296875 40.671875 
+   <!-- $\mathring{A}  \AA$ -->
+   <g transform="translate(180.78 30.564375)scale(0.12 -0.12)">
+    <defs>
+     <path d="M 31.296875 40.671875 
 Q 27.390625 40.671875 24.703125 37.953125 
 Q 22.015625 35.25 22.015625 31.34375 
 Q 22.015625 27.484375 24.703125 24.828125 
@@ -42,8 +57,8 @@ Q 15.828125 24.75 15.828125 31.34375
 Q 15.828125 37.890625 20.3125 42.421875 
 Q 24.8125 46.96875 31.296875 46.96875 
 z
-" id="DejaVuSans-2218"/>
-    <path d="M 36.8125 72.90625 
+" id="DejaVuSans-8728"/>
+     <path d="M 36.8125 72.90625 
 L 48 72.90625 
 L 61.53125 0 
 L 51.21875 0 
@@ -56,8 +71,8 @@ M 40.375 63.1875
 L 19.921875 26.90625 
 L 46.6875 26.90625 
 z
-" id="DejaVuSans-Oblique-41"/>
-    <path d="M 49.8125 79.390625 
+" id="DejaVuSans-Oblique-65"/>
+     <path d="M 49.8125 79.390625 
 Q 49.8125 82.46875 47.625 84.640625 
 Q 45.453125 86.8125 42.390625 86.8125 
 Q 39.265625 86.8125 37.140625 84.6875 
@@ -87,14 +102,11 @@ M 40.375 63.1875
 L 19.921875 26.90625 
 L 46.6875 26.90625 
 z
-" id="DejaVuSans-Oblique-c5"/>
-   </defs>
-   <g transform="translate(177.12 30.72)scale(0.12 -0.12)">
-    <use transform="translate(27.352051 77.96875)scale(0.49)" xlink:href="#DejaVuSans-2218"/>
-    <use transform="translate(0 0.390625)" xlink:href="#DejaVuSans-Oblique-41"/>
-    <use transform="translate(70.408203 37.9375)scale(0.7)" xlink:href="#DejaVuSans-2218"/>
-    <use transform="translate(68.408203 -38.096875)scale(0.7)" xlink:href="#DejaVuSans-Oblique-41"/>
-    <use transform="translate(128.793945 0.390625)" xlink:href="#DejaVuSans-Oblique-c5"/>
+" id="DejaVuSans-Oblique-197"/>
+    </defs>
+    <use transform="translate(27.352051 77.96875)scale(0.49)" xlink:href="#DejaVuSans-8728"/>
+    <use transform="translate(0 0.390625)" xlink:href="#DejaVuSans-Oblique-65"/>
+    <use transform="translate(68.408203 0.390625)" xlink:href="#DejaVuSans-Oblique-197"/>
    </g>
   </g>
  </g>

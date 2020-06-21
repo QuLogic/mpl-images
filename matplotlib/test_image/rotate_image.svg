@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Created with matplotlib (http://matplotlib.org/) -->
+<!-- Created with matplotlib (https://matplotlib.org/) -->
 <svg height="432pt" version="1.1" viewBox="0 0 576 432" width="576pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <style type="text/css">
@@ -26,12 +26,12 @@ L 165.6 43.2
 z
 " style="fill:#ffffff;"/>
    </g>
-   <g clip-path="url(#pc1951ceb2c)">
-    <image height="22" id="image6a5a4e7edb" transform="matrix(18.772006 -10.818449 -9.031685 -15.615086 216.816573 517.516369)" width="10" xlink:href="data:image/png;base64,
-iVBORw0KGgoAAAANSUhEUgAAAAoAAAAWCAYAAAD5Jg1dAAAABHNCSVQICAgIfAhkiAAAAdFJREFUKJFlk01uE0EQhb+qrpnxxMR24kiRIiE2RAoLtii34E4cgBtxiGwRGwiCAE7kyPHP/HQXi7aJE1oqtbr06ul11Ss5//DREccF2AXk994x7cFVEAHXxwJ5BjbtcsIDoAIhF8BTsIV1BrlBMnAHD0IKT8FWLpxYQioFSkhFZhCRzCwgDlbdJ/qB0NcgSeiBJCBbre75tsFtRz8MtDHQkj+GgmuucMmsVsxWaDfARUhBSQapECRm7eKZ1XS+AAWrAn0taJ9Bu7Nrl3rTItERdxDBddsFBQ/+T4YxOaQfD2jHRnMotCOhH0KsnWSetQK2vDhhPQ1spkJz5HSjiNcJKRKog4NHxW4uA+1RpDhqmIxWHNcrXhQNAG0yll3Joqmws3c/eD2a8Wb4k1fljGl4QCWxShU3/ZivzQnf1sfY+7Mr3g6uOS/uOQ0VlRR0HpnFW47DA0qi84B1HpjHITe6ofOGQhqWSblLB1x3U763U341I+zT7wuuBi+ZFGuG1hC2DMtYMW9r7poD5psa+3x9ypciYRYxS4hk18SoOfpA6hTTPyUeoA1Oq49ehGwSPM/cwiZPAxV8Z8D9NdjWGQ6Stokd4Nm+ZOAeg/jWBP4/8C9+C94GgzWRbwAAAABJRU5ErkJggg=="/>
+   <g clip-path="url(#p903f677f29)">
+    <image height="22" id="imagec66723cabd" style="image-rendering:crisp-edges;image-rendering:pixelated" transform="matrix(18.772006 -10.818449 -9.031685 -15.615086 216.816573 517.516369)" width="10" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAAoAAAAWCAYAAAD5Jg1dAAAB0UlEQVR4nGWTTW4TQRCFv6qumfHExHbiSJEiITZECgu2KLfgThyAG3GIbBEbCIIATuTI8c/8dBeLtokTWiq1uvTq6XXVKzn/8NERxwXYBeT33jHtwVUQAdfHAnkGNu1ywgOgAiEXwFOwhXUGuUEycAcPQgpPwVYunFhCKgVKSEVmEJHMLCAOVt0n+oHQ1yBJ6IEkIFut7vm2wW1HPwy0MdCSP4aCa65wyaxWzFZoN8BFSEFJBqkQJGbt4pnVdL4ABasCfS1on0G7s2uXetMi0RF3EMF12wUFD/5PhjE5pB8PaMdGcyi0I6EfQqydZJ61Ara8OGE9DWymQnPkdKOI1wkpEqiDg0fFbi4D7VGkOGqYjFYc1yteFA0AbTKWXcmiqbCzdz94PZrxZviTV+WMaXhAJbFKFTf9mK/NCd/Wx9j7syveDq45L+45DRWVFHQemcVbjsMDSqLzgHUemMchN7qh84ZCGpZJuUsHXHdTvrdTfjUj7NPvC64GL5kUa4bWELYMy1gxb2vumgPmmxr7fH3KlyJhFjFLiGTXxKg5+kDqFNM/JR6gDU6rj16EbBI8z9zCJk8DFXxnwP012NYZDpK2iR3g2b5k4B6D+NYE/j/wL34L3ga69xp4AAAAAElFTkSuQmCC"/>
    </g>
    <g id="line2d_1">
-    <path clip-path="url(#pc1951ceb2c)" d="M 417.383388 433 
+    <path clip-path="url(#p903f677f29)" d="M 417.383388 433 
 L 205.69838 66.35081 
 L -1 185.688175 
 " style="fill:none;stroke:#ff0000;stroke-dasharray:6,6;stroke-dashoffset:0;stroke-width:3;"/>
@@ -275,7 +275,7 @@ L -4 0
   </g>
  </g>
  <defs>
-  <clipPath id="pc1951ceb2c">
+  <clipPath id="p903f677f29">
    <rect height="345.6" width="259.2" x="165.6" y="43.2"/>
   </clipPath>
  </defs>

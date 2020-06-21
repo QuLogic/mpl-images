@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Created with matplotlib (http://matplotlib.org/) -->
+<!-- Created with matplotlib (https://matplotlib.org/) -->
 <svg height="54pt" version="1.1" viewBox="0 0 378 54" width="378pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <style type="text/css">
@@ -18,7 +18,7 @@ z
 " style="fill:#ffffff;"/>
   </g>
   <g id="text_1">
-   <!-- $\mathring{A}  \stackrel{\circ}{A}  \AA$ -->
+   <!-- $\mathring{A}  \AA$ -->
    <defs>
     <path d="M 25 5.609375 
 Q 19.828125 5.609375 15.359375 8.21875 
@@ -47,7 +47,7 @@ Q 9.625 28.078125 9.625 25
 Q 9.625 18.75 14.140625 14.1875 
 Q 18.65625 9.625 25 9.625 
 z
-" id="Cmsy10-b1"/>
+" id="Cmsy10-177"/>
     <path d="M 4.5 0 
 Q 3.515625 0 3.515625 1.3125 
 Q 3.90625 3.515625 4.78125 3.515625 
@@ -84,7 +84,7 @@ M 30.171875 26.21875
 L 52.484375 26.21875 
 L 49.515625 58.59375 
 z
-" id="Cmmi10-41"/>
+" id="Cmmi10-65"/>
     <path d="M 56.40625 0 
 L 31.90625 0 
 L 31.90625 1.59375 
@@ -131,14 +131,12 @@ Q 33.90625 83 35.75 81.09375
 Q 37.59375 79.203125 40.40625 79.203125 
 Q 43.296875 79.203125 47.09375 82.90625 
 z
-" id="STIXGeneral-Italic-c5"/>
+" id="STIXGeneral-Italic-197"/>
    </defs>
-   <g transform="translate(176.88 30.6)scale(0.12 -0.12)">
-    <use transform="translate(35 82.25)scale(0.49)" xlink:href="#Cmsy10-b1"/>
-    <use transform="translate(0 0.921875)" xlink:href="#Cmmi10-41"/>
-    <use transform="translate(84 32.171875)scale(0.7)" xlink:href="#Cmsy10-b1"/>
-    <use transform="translate(75 -42.932813)scale(0.7)" xlink:href="#Cmmi10-41"/>
-    <use transform="translate(140 0.921875)" xlink:href="#STIXGeneral-Italic-c5"/>
+   <g transform="translate(180.78 30.744375)scale(0.12 -0.12)">
+    <use transform="translate(35 82.25)scale(0.49)" xlink:href="#Cmsy10-177"/>
+    <use transform="translate(0 0.921875)" xlink:href="#Cmmi10-65"/>
+    <use transform="translate(75 0.921875)" xlink:href="#STIXGeneral-Italic-197"/>
    </g>
   </g>
  </g>
